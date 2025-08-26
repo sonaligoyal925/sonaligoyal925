@@ -1,4 +1,4 @@
-# Hi there, I'm Sonali Goyal 👋  
+# Hi there, I'm Sonali Goyal 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonali%20Goyal-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sonali-goyal-91ba11248)
 [![GitHub](https://img.shields.io/badge/GitHub-SonaliGoyal925-black?style=flat-square&logo=github)](https://github.com/sonaligoyal925)
@@ -7,87 +7,122 @@
 ---
 
 ## 👩‍💻 About Me
-I am an **AI-focused Full Stack Developer** passionate about building **Generative AI applications, ML pipelines, and scalable web apps**.  
-I love combining **AI/ML, natural language processing, and full-stack engineering** to create real-world impact.  
+I am an **AI-focused Full Stack Developer** with experience in **Generative AI, LLMs, and production-ready web applications**.  
+I build intelligent apps that combine **AI/ML, natural language processing, vector databases, and full-stack development** to solve real-world problems.  
 
 - 🔭 Currently working on **AI-powered apps & LLM projects**  
-- 🌱 Learning **cloud deployment & MLOps (Databricks, Docker, Firebase)**  
-- 💬 Ask me about **AI/ML, Full Stack Development, Generative AI, React**  
+- 🌱 Learning **advanced generative AI and cloud deployment**  
+- 💬 Ask me about **AI, Full Stack Development, Streamlit, FastAPI, React**  
 
 ---
 
-## 🛠 Tech Stack & Skills  
+## 🛠 Skills
 
-### 🚀 Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
-
-### 🤖 AI / ML / GenAI  
-![Generative AI](https://img.shields.io/badge/GenerativeAI-FF6F00?style=flat&logo=openai&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat&logo=chainlink&logoColor=white)  
-![BERT](https://img.shields.io/badge/BERT-NLP-4285F4?style=flat&logo=google&logoColor=white)  
-![FAISS](https://img.shields.io/badge/FAISS-VectorDB-FF4500?style=flat)  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
-
-### 🗄 Databases & Cloud  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-![ChromaDB](https://img.shields.io/badge/ChromaDB-181717?style=flat&logo=datadog&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-
-### ⚡ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+**Programming & Frameworks:** Python, JavaScript, React, Node.js, FastAPI, Streamlit  
+**AI / ML / LLMs:** Google Gemini, Groq API, LangChain, Sentence-Transformers, BERT, FAISS, scikit-learn  
+**Databases:** MySQL, ChromaDb, Supabase, Firestore, Pandas  
+**Dev & Deployment:** REST APIs, CRUD, Docker, Git, Firebase, FCM, Google Maps SDK  
+**Other Tools:** PySpark, Power BI, OR-Tools, Material Design, Tailwind CSS, Figma, Databricks  
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### **Generative AI / LLM Projects**  
-- **SynQue – Talk to MySQL with LLM** *(July 2025)*  
-- **Outreachly – AI-Powered Cold Email Generator** *(July 2025)*  
-- **Log Classification System** *(Aug 2025)*  
+### **Generative AI / LLM Projects**
 
-### **Full-Stack / Web Apps**  
-- **Streakly – Notion-Integrated Productivity App** *(July 2025 – Present)*  
-- **Ride-Sharing Android App (Sukham Jeevan Pvt. Ltd.)** *(Jan – June 2025)*  
+- **[SynQue – Talk to MySQL with LLM]**  
+  *July 2025*  
+  - Query a MySQL database in natural language using Google Gemini LLM.  
+  - Safe SQL generation, CSV export, and query history.  
+  - Vector embeddings with ChromaDb for schema/few-shot context retrieval.  
 
-### **Data Analysis / ML Projects**  
-- **ScoreBoard360 – IPL Analytics Dashboard** *(Apr 2025)*  
-- **Ride-Hailing Insights & Prediction** *(Mar 2025)*  
-- **Fake News Detection (PySpark + ML)** *(Feb 2025)*  
+- **[Outreachly – AI-Powered Cold Email Generator]**  
+  *July 2025*  
+  - Scrapes job listings and generates personalized outreach emails using Groq API & LangChain.  
+  - Semantic search matches portfolio links to job requirements.  
 
-👉 [See all projects here](https://github.com/sonaligoyal925?tab=repositories)  
-
----
-
-## 📊 GitHub Stats  
-![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonaligoyal925&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonaligoyal925&layout=compact&theme=radical)  
+- **[Log Classification System]**  
+  *Aug 2025*  
+  - Hybrid log classification pipeline using regex, ML (BERT), and LLMs.  
+  - Exposes API endpoints to classify CSV logs and return structured output.  
 
 ---
 
-## 🏆 Certifications & Achievements  
-- NASSCOM Google Gen AI Virtual Internship  
+### **Full-Stack / Web Apps**
+
+- **[Streakly – Full-Stack Notion-Integrated App]**  
+  *July 2025 – Present*  
+  - Productivity app with authentication, CRUD tasks, streak tracking, and calendar view.  
+  - Real-time task sync using Supabase.  
+
+- **Ride-Sharing Android App**  
+  *Jan 2025 – June 2025*  
+  - Led prototyping to deployment for **Sukham Jeevan Pvt. Ltd (Incubated under The Times Group)**.  
+  - Features: live tracking, fare calculation, Google login, and route optimization via OR-Tools & clustering.  
+
+---
+
+### **Data Analysis / ML Projects**
+
+- **ScoreBoard360 – IPL Analytics Dashboard**  
+  *Apr 2025*  
+  - Interactive dashboard for IPL analytics: season trends, team stats, match outcomes.  
+  - 10+ visualizations using Pandas, Matplotlib, Seaborn, Streamlit.  
+
+- **Ride-Hailing Insights & Prediction**  
+  *Mar 2025*  
+  - Analyzed 2M+ ride records to identify booking trends, cancellations, and demand hotspots.  
+  - Regression models (Linear, Decision Tree, Random Forest, Gradient Boosting) to predict bookings.
+ 
+  - **Pizza Sales Analysis (SQL)**  
+  *Jan 2025*  
+  - Key queries for revenue, category contribution, top items, and hour-of-day ordering behavior.  
+  - MySQL/PostgreSQL with optional Power BI dashboards.  
+
+- **Fake News Detection (PySpark + ML)**  
+  *Feb 2025*  
+  - PySpark preprocessing + TF-IDF, sentiment features; SMOTE for balance.  
+  - Models: Logistic Regression, Naive Bayes, Random Forest (best ~89% accuracy).  
+
+- **Gold Price Forecasting (1950–2020)**  
+  *feb 2025*  
+  - Time series forecasting with Linear, Naive, Holt-Winters; best MAPE ~17%.  
+
+---
+
+### **Startup / Product Experience**
+
+- **AI Supply Chain Dashboard**  
+  *June 2025*  
+  - Streamlit dashboard for forecasting, KPI analytics, route optimization, and AI-driven stock management.  
+  - Improved delivery efficiency by **20%** using ML models.  
+
+- **Sukham Jeevan Pvt. Ltd – Tech Product Lead**  
+  *Jan 2025 – June 2025*  
+  - Prototyped and deployed a ride-sharing Android app with AI-driven route optimization and live tracking.  
+
+---
+
+### ⚡ See More Projects
+Check out 👉 [All My Projects](https://github.com/sonaligoyal925?tab=repositories) for additional work including hackathon projects, data analysis, and experimental AI apps.  
+
+---
+
+
+## 🏆 Certifications & Achievements
+- NASSCOM Google Gen AI Virtual Internship   
 - GSSoC'25 Contributor  
 - Google Data Analytics – Coursera  
 - IBM Machine Learning – Coursera  
 
 ---
 
-## 📫 Contact Me  
-📧 [sonaaliegoyal555@gmail.com](mailto:sonaaliegoyal555@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/sonali-goyal-91ba11248)  
-🖥 [GitHub](https://github.com/sonaligoyal925)  
-🧑‍💻 [LeetCode](https://leetcode.com/sonaligoyal177)  
+## 📫 Contact Me
+- 📧 Email: [sonaaliegoyal555@gmail.com](mailto:sonaaliegoyal555@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/sonali-goyal-91ba11248](https://linkedin.com/in/sonali-goyal-91ba11248)  
+- 🖥 GitHub: [github.com/sonaligoyal925](https://github.com/sonaligoyal925)  
+- 🧑‍💻 LeetCode: [leetcode.com/sonaligoyal177](https://leetcode.com/sonaligoyal177)  
 
 ---
 
-> “Building intelligent applications that combine AI with real-world functionality.”  
+> “Building intelligent applications that combine AI with real-world functionality.”
