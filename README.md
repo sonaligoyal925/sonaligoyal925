@@ -30,19 +30,19 @@ I build intelligent apps that combine **AI/ML, natural language processing, vect
 
 ### **Generative AI / LLM Projects**
 
-- **[SynQue – Talk to MySQL with LLM](https://github.com/sonaligoyal925/synque)**  
-  *Jan 2025 – Mar 2025*  
+- **[SynQue – Talk to MySQL with LLM]**  
+  *July 2025*  
   - Query a MySQL database in natural language using Google Gemini LLM.  
   - Safe SQL generation, CSV export, and query history.  
   - Vector embeddings with ChromaDb for schema/few-shot context retrieval.  
 
-- **[Outreachly – AI-Powered Cold Email Generator](https://github.com/sonaligoyal925/outreachly)**  
-  *Apr 2025 – May 2025*  
+- **[Outreachly – AI-Powered Cold Email Generator]**  
+  *July 2025*  
   - Scrapes job listings and generates personalized outreach emails using Groq API & LangChain.  
   - Semantic search matches portfolio links to job requirements.  
 
-- **[Log Classification System](https://github.com/sonaligoyal925/log-classification)**  
-  *Feb 2025 – Apr 2025*  
+- **[Log Classification System]**  
+  *Aug 2025*  
   - Hybrid log classification pipeline using regex, ML (BERT), and LLMs.  
   - Exposes API endpoints to classify CSV logs and return structured output.  
 
@@ -50,8 +50,8 @@ I build intelligent apps that combine **AI/ML, natural language processing, vect
 
 ### **Full-Stack / Web Apps**
 
-- **[Streakly – Full-Stack Notion-Integrated App](https://github.com/sonaligoyal925/streakly)**  
-  *Jan 2025 – Mar 2025*  
+- **[Streakly – Full-Stack Notion-Integrated App]**  
+  *July 2025 – Present*  
   - Productivity app with authentication, CRUD tasks, streak tracking, and calendar view.  
   - Real-time task sync using Supabase.  
 
@@ -72,7 +72,21 @@ I build intelligent apps that combine **AI/ML, natural language processing, vect
 - **Ride-Hailing Insights & Prediction**  
   *Mar 2025*  
   - Analyzed 2M+ ride records to identify booking trends, cancellations, and demand hotspots.  
-  - Regression models (Linear, Decision Tree, Random Forest, Gradient Boosting) to predict bookings.  
+  - Regression models (Linear, Decision Tree, Random Forest, Gradient Boosting) to predict bookings.
+ 
+  - **Pizza Sales Analysis (SQL)**  
+  *Jan 2025*  
+  - Key queries for revenue, category contribution, top items, and hour-of-day ordering behavior.  
+  - MySQL/PostgreSQL with optional Power BI dashboards.  
+
+- **Fake News Detection (PySpark + ML)**  
+  *Feb 2025*  
+  - PySpark preprocessing + TF-IDF, sentiment features; SMOTE for balance.  
+  - Models: Logistic Regression, Naive Bayes, Random Forest (best ~89% accuracy).  
+
+- **Gold Price Forecasting (1950–2020)**  
+  *feb 2025*  
+  - Time series forecasting with Linear, Naive, Holt-Winters; best MAPE ~17%.  
 
 ---
 
@@ -101,7 +115,7 @@ Check out 👉 [All My Projects](https://github.com/sonaligoyal925?tab=repositor
 ---
 
 ## 🏆 Certifications & Achievements
-- NASSCOM Google Gen AI – Smartinternz  
+- NASSCOM Google Gen AI Virtual Internship   
 - GSSoC'25 Contributor  
 - Google Data Analytics – Coursera  
 - IBM Machine Learning – Coursera  
